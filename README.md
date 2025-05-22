@@ -1,4 +1,4 @@
-\# 🏃‍♂️ ENDLESS RUNNER
+# 🏃‍♂️ ENDLESS RUNNER
 ### *The Ultimate Terminal-Based Adventure Game*
 
 <div align="center">
@@ -71,6 +71,22 @@ Navigate through an ever-changing landscape filled with obstacles, collect coins
 </tr>
 </table>
 
+## 🏆 Screenshots
+
+### Game Start Screen
+![Game Start Screen](screenshots/game_start.png)
+*Beautiful ASCII art welcome screen with colorful title and name input*
+
+### Gameplay in Action
+![Gameplay Screenshot](screenshots/gameplay.png)
+*Live gameplay showing player (P), obstacles (X), coins (O), and game stats*
+
+The game features:
+- **Colorful ASCII Art**: Eye-catching terminal graphics with vibrant colors
+- **Real-time Stats**: Live display of player name, lives, score, distance, and speed
+- **Dynamic Elements**: Moving obstacles, collectible coins, and responsive player character
+- **Immersive Interface**: Professional-looking game boundaries and clean layout
+
 ## 🎮 How to Play
 
 ### Controls
@@ -110,18 +126,24 @@ Navigate through an ever-changing landscape filled with obstacles, collect coins
    cd endless-runner
    ```
 
-2. **Create Music Directory**
+2. **Create Screenshots Directory** (if you want to add the images)
+   ```bash
+   mkdir screenshots
+   # Add your screenshot files: game_start.png, gameplay.png
+   ```
+
+3. **Create Music Directory**
    ```bash
    mkdir MUSIC
    # Add your music files: music1.mp3 or music.wav
    ```
 
-3. **Compile the Game**
+4. **Compile the Game**
    ```bash
    g++ -o endless_runner main.cpp -lwinmm
    ```
 
-4. **Run and Enjoy!**
+5. **Run and Enjoy!**
    ```bash
    ./endless_runner.exe
    ```
@@ -172,7 +194,7 @@ The game supports multiple audio formats:
 - Multi-format Audio Support
 ```
 
-## 🎨 Screenshots
+## 🎨 Visual Features
 
 ```
 ====================================
