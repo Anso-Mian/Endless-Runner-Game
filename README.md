@@ -280,7 +280,7 @@ High Scores:
 
 ## 👥 Credits
 
-**Developers:** F24-0779 & F24-0599
+**Developers:** F24-0779 (Muhammad Ans Rizwan) & F24-0599 (Shaheer Amir)
 
 Special thanks to all contributors and players who make this game awesome!
 
